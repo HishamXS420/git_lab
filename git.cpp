@@ -8,11 +8,8 @@ cout << "Let's gets started" << endl;
 
 cout << " This is our first lab for CSE-3206" << endl;  // It's Zaif reporting
 
-<<<<<<< HEAD
-cout << "You are welcome to the project Zaif96!" << endl; //
-=======
 cout << "You are welcome to the project Zaif96!" << endl; // 
->>>>>>> origin/main
+
 
 return 0 ;
 }
